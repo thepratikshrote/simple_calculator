@@ -26,6 +26,11 @@ The repository contains the following files:
 2. style.css: Contains the CSS styles for the calculator.
 3. script.js: Contains the JavaScript code for handling calculator logic.
 4. README.md: The README file providing information about the project.
+
+## Screenshots
+
+![image](https://github.com/thepratikshrote/simple_calculator/assets/139691671/e27803d5-b0e7-4387-86af-97f463a3a8a8)
+
 ## Acknowledgements
 
 Please note that this is a basic calculator and may not handle complex calculations or advanced features. It is intended as a simple demonstration of using HTML, CSS, and JavaScript to build a calculator.
